@@ -1,2 +1,0 @@
-# eyond.net
-main website
